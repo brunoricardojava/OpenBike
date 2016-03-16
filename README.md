@@ -7,7 +7,11 @@ Com a construção e instalação de estações de bicicleta em pontos especific
 
 Etapas do projeto:
 -Elaboração de um big picture do projeto, analisando impactos sociais e viabilidades de implementação. 
+
 -Criação de um protótipo do projeto
+
 -Arecadação de fundos, primeira tentativa de implementação (projeto piloto).
+
 -Melhorias no sistema, sendo essas segurança, funcionalidades de comunicação por rádio das bicicletas com as estações, aplicação em IoT.
+
 -Expansão do sistema para a cidade de Belém(PA).
