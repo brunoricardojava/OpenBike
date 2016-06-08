@@ -5,8 +5,11 @@ Sendo a UFPA campus Belem um dos maiores campus universitario da região norte e
 
 O projeto OpenBike, vem como a iniciativa de disponibilizar de forma gratuita e ecologica um sistema de compartilhamento de bicicletas, que atenda as necessidades de locomoção dentro da cidade universitaria do guamá.
 
-## Descrição do funcionamento
-
+## Descrição do funcionamento:
+> ## Cadastro
+Esse sistema é responssavel pelo cadastro de ussuarios na rede de compartilhamento de bicicletas. Para isso precisamos de algumas informações obrigatorias como CPF(Comprovente de Pessoa Fisica), nome completo, endereço, número de telefone e e-mail.
+Podemos ter acesso a diversar plataformas de cadastro, sendo opconal a implementação delas, como: mobile, browser e na própria estação da bicicleta.
+As estações do OpenBike vão funcionar conectadas na mesma rede, podendo ser pela internet, rede local da UFPA ou uma rede própria do projeto, com isso vamos usar um unico banco de dados onde vamos verificar se o usuario esta cadastrado.
 
 ## Pontos de instalção das estações(1° Etapa)
 - Portão III;
