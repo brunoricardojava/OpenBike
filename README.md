@@ -7,9 +7,15 @@ O projeto OpenBike, vem como a iniciativa de disponibilizar de forma gratuita e 
 
 ## Descrição do funcionamento
 ### Cadastro:
-> Esse sistema é responssavel pelo cadastro de ussuarios na rede de compartilhamento de bicicletas. Para isso precisamos de algumas informações obrigatorias como CPF(Comprovente de Pessoa Fisica), nome completo, endereço, número de telefone e e-mail.
-Podemos ter acesso a diversar plataformas de cadastro, sendo opconal a implementação delas, como: mobile, browser e na própria estação da bicicleta.
-As estações do OpenBike vão funcionar conectadas na mesma rede, podendo ser pela internet, rede local da UFPA ou uma rede própria do projeto, com isso vamos usar um unico banco de dados onde vamos verificar se o usuario esta cadastrado.
+> Esse sistema é responssavel pelo cadastro de usuários na rede de compartilhamento de bicicletas. Para isso precisamos de algumas informações obrigatorias como CPF(Comprovente de Pessoa Fisica), nome completo, endereço, número de telefone, e-mail, login e senha.
+Podemos ter acesso a diversar plataformas de cadastro, sendo opcional a implementação delas, como: mobile, browser e na própria estação da bicicleta.
+As estações do OpenBike vão funcionar conectadas na mesma rede, podendo ser pela internet, rede local da UFPA ou uma rede própria do projeto, com isso vamos usar um unico banco de dados onde vamos verificar se o usuário esta cadastrado.
+
+### Emprestimo
+> O usuário devidamente cadastrado, pode ir em uma estação do OpenBike e se autenticar para o sistema, usando quaisquer meios de autenticação como: login e senha, biometria, RFID... Previamente cadastrados. Com a autenticação confirmada o usuário pode fazer o emprestimo da bicicleta que estja disponivel na estação. 
+
+### Devolução
+> A devolução deve obdecer as normas préveamente estabelcidas como tempo de uso e cuidados com a bicicleta. Recebendo multas no atraso da devolução, danos na bicicletas, roubo...
 
 ## Pontos de instalção das estações(1° Etapa)
 - Portão III;
