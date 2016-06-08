@@ -1,6 +1,5 @@
 # OpenBike
-
-"Descrição mais geral do que significa o projeto OpenBike"
+O projeto OpenBike, tem como objetivo incentivar e aumentar o uso de bicicletas, com o desenvolvimento de técnologias(`opensource` e `openhardware`) de baixo custo e fácil implementação. Como exemplo de nossas atividades, estamos desenvolvendo um sistema de compartilhamento de bicicletas gratuito, baseado em estações de gerenciamento de bicicletas e em um modulo universal de trancas para as bicicletas.
 
 ## OpenBike-UFPA
 Sendo a UFPA campus Belem um dos maiores campus universitario da região norte e do Brasil, com aproximadamente 450 mil metros quadrados e com fluxo diario de 45 mil pessoas, faz se necessario um sistema de locomoção interno para dicentes, docentes e comunidade.
@@ -34,6 +33,10 @@ As estações do OpenBike vão funcionar conectadas na mesma rede, podendo ser p
 - [ ] Expansão do sistema para a cidade de Belém(PA).
 
 ## Hardware
+
+###Bicicleta
+
+###Estação
 
 ## Software
 
