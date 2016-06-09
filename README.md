@@ -37,6 +37,7 @@ As estações do OpenBike vão funcionar conectadas na mesma rede, podendo ser p
 ###Bicicleta
 
 ###Estação
+> A ideia é ter uma estação central em um determinado local, gerando um sinal de rede(roteador-wifi), com isso podemso deixar as estações das bicicletas mais modulares e espanciveis. Sendo limitado pelo alcance do wifi e quantidade de dispositivos conectados. Possivelemtne a estação central devera ter um micro-controlador mais potente ou um mini computador com "raspberry pi", servindo como broker para nosso rede IoT e servidor.
 
 ## Software
 
