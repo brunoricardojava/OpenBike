@@ -25,6 +25,13 @@ As estações do OpenBike vão funcionar conectadas na mesma rede, podendo ser p
 - PCT-GUAMÁ
 
 ## Etapas do projeto
+
+- [X] Fazer o repositorio no github;
+- [ ] Elaborar uma sequencia de etapas que o projeto deve seguir para ser concluido;
+- [ ] Discutir sobre o projeto e formar um big picture sobre ele;
+- [ ] Definir prazo para as sequencias de etapas serem concluidas;
+- [ ] Botar a mão na massa!!!2
+
 - [X] Começo do projeto, definição de prazos e criação da pagina no github.
 - [ ] Elaboração de um big picture do projeto, analisando impactos sociais e viabilidades de implementação. 
 - [ ] Criação de um protótipo do projeto, instalação no PCT-GUAMÁ. Testes de funcionalidade.
