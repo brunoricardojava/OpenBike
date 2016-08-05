@@ -55,5 +55,3 @@ As estações do OpenBike vão funcionar conectadas na mesma rede, podendo ser p
 - [UFPA em números](https://www.portal.ufpa.br/imprensa/noticia.php?cod=6449)
 
 - [Cidade Universitaria-UFPA](https://books.google.com.br/books?id=KdNVBQAAQBAJ&pg=PA37&lpg=PA37&dq=Cidade+Universit%C3%A1ria+Professor+Jos%C3%A9+da+Silveira+Netto+-+Bel%C3%A9m&source=bl&ots=RJmgXofZuI&sig=bD5YVcfZGfq5Q06MRKB1nAzs6sk&hl=pt-BR&sa=X&ved=0ahUKEwjvz66rzZjNAhUHOCYKHaGAAH0Q6AEIUTAJ#v=onepage&q=Cidade%20Universit%C3%A1ria%20Professor%20Jos%C3%A9%20da%20Silveira%20Netto%20-%20Bel%C3%A9m&f=false)
-
-oi
