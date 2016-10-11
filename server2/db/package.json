@@ -1,0 +1,15 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "Models MongoDB for OpenBike",
+  "main": "models.js",
+  "dependencies": {
+    "mongoose": "^4.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
