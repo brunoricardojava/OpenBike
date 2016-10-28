@@ -1,7 +1,7 @@
-#Iniciando Container
+#Starting BD Docker Container
 docker run --name ob_postgres -p 5432:5432 -e POSTGRES_PASSWORD=mysecretpassword -e POSTGRES_USER=openbike -e POSTGRES_DB=openbike -d postgres
 
-#Executando container
+#Running
 	docker exec -it ob_postgres bash
-e depois executar o psql
+and after, run psql into container
 	psql -h localhost -U openbike
