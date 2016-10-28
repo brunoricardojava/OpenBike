@@ -26,7 +26,7 @@ console.log("Tabela stations criada com sucesso\n");
 console.log("Tabela bikes criada com sucesso\n");
 
 //making table for loans
-query = client.query('CREATE TABLE IF NOT EXISTS emprestimo (id_emprestimo INT NOT NULL, date DATE NOT NULL, time TIME NOT NULL, type VARCHAR(1) NOT NULL, PRIMARY KEY (id_emprestimo), CONSTRAINT emprestimo_user FOREIGN KEY (id_emprestimo) REFERENCES users (id_user) ON DELETE NO ACTION ON UPDATE NO ACTION, CONSTRAINT emprestimo_station FOREIGN KEY () REFERENCES stations () ON DELETE NO ACTION ON UPDATE NO ACTION, CONSTRAINT emprestimo_bike FOREIGN KEY () REFERENCES bikes () ON DELETE NO ACTION ON UPDATE NO ACTION)');
+query = client.query('CREATE TABLE IF NOT EXISTS emprestimo (id_emprestimo INT NOT NULL, date DATE NOT NULL, time TIME NOT NULL, type VARCHAR(1) NOT NULL, PRIMARY KEY (id_emprestimo), CONSTRAINT emprestimo_user FOREIGN KEY (id_emprestimo) REFERENCES users (id_user) ON DELETE NO ACTION ON UPDATE NO ACTION, CONSTRAINT emprestimo_station FOREIGN KEY (id_emprestimo) REFERENCES stations (id_station) ON DELETE NO ACTION ON UPDATE NO ACTION, CONSTRAINT emprestimo_bike FOREIGN KEY (id_emprestimo) REFERENCES bikes (id_bikes) ON DELETE NO ACTION ON UPDATE NO ACTION)');
 console.log("Tabela bikes criada com sucesso\n");
 
 query.on('end', () => { client.end(); });
